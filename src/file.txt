@@ -1,0 +1,11 @@
+npx create-react-app .
+npm run 
+tailwind
+npm i react-icons
+google font-raleway 
+
+flex-row to position flex items horizontally in the same direction as text
+
+target="_blank" - opens link in new tab 
+
+group class in parent and group-hover class in child so hover effect of child is also addded to parent 
